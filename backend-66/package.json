@@ -1,0 +1,21 @@
+{
+  "name": "backend-6",
+  "version": "1.0.0",
+  "description": "going to learn backend by chai aur code",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "code"
+  ],
+  "author": "\"Asim Ali\"",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3",
+    "prettier": "^3.2.5"
+  }
+}
